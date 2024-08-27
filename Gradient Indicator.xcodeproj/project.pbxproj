@@ -11,6 +11,8 @@
 		FB218B992C7DCA6500828F46 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB218B982C7DCA6500828F46 /* ContentView.swift */; };
 		FB218B9B2C7DCA6600828F46 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB218B9A2C7DCA6600828F46 /* Assets.xcassets */; };
 		FB218B9E2C7DCA6600828F46 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB218B9D2C7DCA6600828F46 /* Preview Assets.xcassets */; };
+		FB218BA52C7DCCA000828F46 /* IndicatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB218BA42C7DCCA000828F46 /* IndicatorView.swift */; };
+		FB218BA72C7DD03800828F46 /* TestIndicatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB218BA62C7DD03800828F46 /* TestIndicatorView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		FB218B982C7DCA6500828F46 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		FB218B9A2C7DCA6600828F46 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FB218B9D2C7DCA6600828F46 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FB218BA42C7DCCA000828F46 /* IndicatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndicatorView.swift; sourceTree = "<group>"; };
+		FB218BA62C7DD03800828F46 /* TestIndicatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestIndicatorView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				FB218B962C7DCA6500828F46 /* Gradient_IndicatorApp.swift */,
 				FB218B982C7DCA6500828F46 /* ContentView.swift */,
+				FB218BA62C7DD03800828F46 /* TestIndicatorView.swift */,
+				FB218BA42C7DCCA000828F46 /* IndicatorView.swift */,
 				FB218B9A2C7DCA6600828F46 /* Assets.xcassets */,
 				FB218B9C2C7DCA6600828F46 /* Preview Content */,
 			);
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				FB218B992C7DCA6500828F46 /* ContentView.swift in Sources */,
+				FB218BA52C7DCCA000828F46 /* IndicatorView.swift in Sources */,
+				FB218BA72C7DD03800828F46 /* TestIndicatorView.swift in Sources */,
 				FB218B972C7DCA6500828F46 /* Gradient_IndicatorApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
